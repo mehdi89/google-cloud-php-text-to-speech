@@ -24,8 +24,16 @@
     },
     "repositories": [
         {
-            "type": "vcs",
-            "url": "https://github.com/wddyousuf/gax-php.git"
+            "type":"package",
+            "package": {
+                "name": "wddyousuf/gax-php",
+                "version":"dev-main",
+                "source": {
+                    "url": "https://github.com/wddyousuf/gax-php.git",
+                    "type": "git",
+                    "reference":"main"
+                }
+            }
         }
     ],
     "require": {
