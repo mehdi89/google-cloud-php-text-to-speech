@@ -2,7 +2,7 @@
     "name": "mehdi89/google-cloud-php-text-to-speech",
     "description": "Cloud Text-to-Speech Client for PHP",
     "license": "Apache-2.0",
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "Google\\Cloud\\TextToSpeech\\": "src",
