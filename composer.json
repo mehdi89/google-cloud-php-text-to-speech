@@ -30,7 +30,7 @@
     ],
     "require": {
         "php": ">=7.4",
-        "wddyousuf/gax": "dev-bug-fix"
+        "wddyousuf/gax-php": "dev-bug-fix"
     },
     "require-dev": {
         "phpunit/phpunit": "^9.0",
