@@ -25,7 +25,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/wddyousuf/gax-php.git"
+            "url": "https://github.com/wddyousuf/gax-php"
         }
     ],
     "require": {
